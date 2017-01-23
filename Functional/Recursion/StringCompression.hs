@@ -1,3 +1,5 @@
+-- String Compression 
+
 import Data.List (group)
 import Control.Monad (liftM)
 
