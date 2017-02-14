@@ -1,6 +1,4 @@
 -- Super-Queens on a Chessboard
-
-import Data.List
 import qualified Data.Set as S
 
 type Cell = (Int, Int)
